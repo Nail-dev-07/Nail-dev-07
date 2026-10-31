@@ -9,7 +9,7 @@ Technologies I use are primarily web based: JavaScript, CSS, HTML. I publish all
 
 ### Projects
 
-The project i would like to emphasize here is React eCommerce Application i have been making past few months.
+The project i would like to emphasize is React eCommerce Application i have been making past few months.
 
 ### Contact
 
