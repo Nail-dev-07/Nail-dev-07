@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Nail
 
-<!--
-**Nail-dev-07/Nail-dev-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer mainly focusing on building applications using React JavaScript framework.
+As a developer i intend to make my applications available and usable on all devices.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I use are primarily web based: JavaScript, CSS, HTML. I publish all my projects on GitHub.
+
+### Projects
+
+The project i would like to emphasize here is React eCommerce Application i have been making past few months.
+
+### Contact
+
+- mail: ilgvm918@gmail.com
+- GitHub profile: htttps://github.com/Nail-dev-07
